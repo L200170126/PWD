@@ -1,0 +1,27 @@
+body
+{
+    background-image: url("images.jpg");
+    background-size: 30cm;
+    background-position: center
+}
+h1
+{
+    font-family: comic sans ms;
+    text-align: center;
+    display: block;
+    margin-top: 20pt;
+    color: orange
+}
+table
+{
+    background: white
+}
+.td
+{
+    font-weight: bold
+}
+
+table, th, td
+{
+    border: 1px solid black;
+}
